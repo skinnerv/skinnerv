@@ -2,8 +2,8 @@
 - 👀 I’m interested in python, security and cryptography.
 - 🌱 I’m currently mastering python and cybersecurity. 
 - Checkout my THM badge!
-- 
-- 💞️ I’m looking to collaborate on (after daily job maybe I will find something cool with me)
+ <img src="https://tryhackme-badges.s3.amazonaws.com/skinnerv.png" alt="TryHackMe">
+
 - 📫 You can reach me using linkedin -> https://www.linkedin.com/in/piotr-pietrzak-993751179/
 
 <!---
