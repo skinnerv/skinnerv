@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @skinnerv and I'm from Poland :D 
 - 👀 I’m interested in python, security and cryptography.
-- 🌱 I’m currently mastering python. 
+- 🌱 I’m currently mastering python and cybersecurity. 
+-  ![](https://tryhackme.com/badge/981040) 
 - 💞️ I’m looking to collaborate on (after daily job maybe I will find something cool with me)
 - 📫 You can reach me using linkedin -> https://www.linkedin.com/in/piotr-pietrzak-993751179/
 
