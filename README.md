@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @skinnerv and I'm from Poland :D 
 - 👀 I’m interested in python, security and cryptography.
 - 🌱 I’m currently mastering python and cybersecurity. 
-- Checkout my THM badge!
- <img src="https://tryhackme-badges.s3.amazonaws.com/skinnerv.png" alt="TryHackMe">
+- Checkout my THM badge! ->
+ https://tryhackme.com/p/skinnerv
 
 - 📫 You can reach me using linkedin -> https://www.linkedin.com/in/piotr-pietrzak-993751179/
 
